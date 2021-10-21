@@ -1,0 +1,24 @@
+{
+  "name": "examen2-arpb",
+  "version": "1.0.0",
+  "description": "Examen práctico 2 desarrollo web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a01374942/examen2-ARPB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a01374942/examen2-ARPB/issues"
+  },
+  "homepage": "https://github.com/a01374942/examen2-ARPB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11"
+  }
+}
